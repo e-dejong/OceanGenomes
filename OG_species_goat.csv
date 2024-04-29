@@ -3,7 +3,7 @@
 # primary_contact,Shannon Corrigan
 # primary_contact_institution,Ocean Genomes Minderoo Ocean Omics Centre at University of Western Australia Crawley Perth Australia
 # primary_contact_email,oceangenomes@uwa.edu.au
-# date_of_update,15/04/2024
+# date_of_update,29/04/2024
 # schema_version,ebp_species_goat_2.6
 "ncbi_taxon_id","species","subspecies","family","target_list_status","sequencing_status","synonym","publication_id"
 "753643","Acanthurus achilles","-","Acanthuridae","long_list","-","-","-"
@@ -5704,7 +5704,7 @@
 "182659","Lethrinus obsoletus","-","Lethrinidae","long_list","-","-","-"
 "182660","Lethrinus olivaceus","-","Lethrinidae","long_list","-","-","-"
 "119721","Lethrinus ornatus","-","Lethrinidae","long_list","-","-","-"
-"-","Lethrinus punctulatus","-","Lethrinidae","long_list","data_generation","-","-"
+"-","Lethrinus punctulatus","-","Lethrinidae","long_list","in_assembly","-","-"
 "1099944","Lethrinus ravus","-","Lethrinidae","long_list","-","-","-"
 "182661","Lethrinus reticulatus","-","Lethrinidae","long_list","-","-","-"
 "119722","Lethrinus rubrioperculatus","-","Lethrinidae","long_list","-","-","-"
