@@ -3,7 +3,7 @@
 # primary_contact,Shannon Corrigan
 # primary_contact_institution,Ocean Genomes Minderoo Ocean Omics Centre at University of Western Australia Crawley Perth Australia
 # primary_contact_email,oceangenomes@uwa.edu.au
-# date_of_update,05/06/2024
+# date_of_update,10/06/2024
 # schema_version,ebp_species_goat_2.6
 "ncbi_taxon_id","species","subspecies","family","target_list_status","sequencing_status","synonym","publication_id"
 "753643","Acanthurus achilles","-","Acanthuridae","long_list","-","-","-"
@@ -722,7 +722,7 @@
 "1680631","Parazanclistius hutchinsi","-","Pentacerotidae","long_list","-","-","-"
 "334882","Paristiopterus gallipavo","-","Pentacerotidae","long_list","-","-","-"
 "334886","Paristiopterus labiosus","-","Pentacerotidae","long_list","-","-","-"
-"334889","Pentaceropsis recurvirostris","-","Pentacerotidae","long_list","data_generation","-","-"
+"334889","Pentaceropsis recurvirostris","-","Pentacerotidae","long_list","in_assembly","-","-"
 "1003777","Pentaceros capensis","-","Pentacerotidae","long_list","-","-","-"
 "334887","Pentaceros decacanthus","-","Pentacerotidae","long_list","-","-","-"
 "257889","Pentaceros japonicus","-","Pentacerotidae","long_list","-","-","-"
@@ -5716,7 +5716,7 @@
 "182664","Wattsia mossambica","-","Lethrinidae","long_list","-","-","-"
 "396779","Aphareus furca","-","Lutjanidae","long_list","data_generation","-","-"
 "443676","Aphareus rutilans","-","Lutjanidae","long_list","-","-","-"
-"396781","Aprion virescens","-","Lutjanidae","long_list","-","-","-"
+"396781","Aprion virescens","-","Lutjanidae","long_list","data_generation","-","-"
 "617122","Apsilus dentatus","-","Lutjanidae","long_list","-","-","-"
 "546540","Apsilus fuscus","-","Lutjanidae","long_list","-","-","-"
 "2780509","Etelis boweni","-","Lutjanidae","long_list","-","-","-"
@@ -18171,7 +18171,7 @@
 "1213674","Carcharhinus borneensis","-","Carcharhinidae","long_list","-","-","-"
 "671158","Carcharhinus brachyurus","-","Carcharhinidae","long_list","-","-","-"
 "263685","Carcharhinus brevipinna","-","Carcharhinidae","long_list","-","-","-"
-"443757","Carcharhinus cautus","-","Carcharhinidae","long_list","-","-","-"
+"443757","Carcharhinus cautus","-","Carcharhinidae","long_list","data_generation","-","-"
 "2946612","Carcharhinus cerdale","-","Carcharhinidae","long_list","-","-","-"
 "1406294","Carcharhinus coatesi","-","Carcharhinidae","long_list","-","-","-"
 "335035","Carcharhinus dussumieri","-","Carcharhinidae","long_list","-","-","-"
