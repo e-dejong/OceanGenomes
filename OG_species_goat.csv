@@ -3,7 +3,7 @@
 # primary_contact,Shannon Corrigan
 # primary_contact_institution,Ocean Genomes Minderoo Ocean Omics Centre at University of Western Australia Crawley Perth Australia
 # primary_contact_email,oceangenomes@uwa.edu.au
-# date_of_update,10/06/2024
+# date_of_update,17/06/2024
 # schema_version,ebp_species_goat_2.6
 "ncbi_taxon_id","species","subspecies","family","target_list_status","sequencing_status","synonym","publication_id"
 "753643","Acanthurus achilles","-","Acanthuridae","long_list","-","-","-"
